@@ -1,4 +1,6 @@
 # Principal-Component-Analysis
-~ Using Eigen Value Decomposition available in numpy, implemented the Principal Component Analysis from scratch.
+• Implemented PCA algorithm using NumPy, as well as with built-in PCA function from Scikit-learn.
 
-~ Compared the 3D plots with the dataset given on the scikit learn website for plot_pca_3d.
+• Identified top k-principal components using EigenValue Decomposition and lowered the dimensions.
+
+• Confirmed 100% match of results obtained from custom implementation & Scikit-learn built-in function
